@@ -1,24 +1,28 @@
 # Hello 👋
 ![An image of a mushroom and the mycelial logo](https://raw.githubusercontent.com/mycelial/.github/main/profile/mycelial-banner.jpg)
 
-We are [Mycelial Inc.](https://mycelial.com), a maker of local-first software
-development libraries.
+We are [Mycelial Inc.](https://mycelial.com), and we offer modern data
+infrastructure for AI at the Edge.
 
-> What's local-first software?
+> What does this mean?
 
-Up until recently, you had two options when creating an application:
-- Local applications and
-- Client/server applications
+Out of necessity, Edge Machine Learning (ML) moves computing away from the data
+center to the edges of the network where the data is generated. This means your
+resource-intensive ML applications, must be local applications, to function
+properly.
 
-Each of these types of applications has its strengths (and weaknesses). For
-example, local apps are typically fast because they don't need to talk to
-servers over slow networks. However, if your app needs multiple users to
-collaborate on common tasks, then a local application won't work for you; you'll
-probably need to create a client/server application, right? Well, maybe, but now
-a third option allows you to combine many of the best features from local and
-client/server applications. It's a new, best-of-both-worlds paradigm.
+This raises an important question, which is:
 
-Checkout this [README](https://github.com/mycelial/mycelial-js) to learn more.
+> "How do you access the important information on your edge devices?"
+
+You could spend engineering time trying to synchronize the data on your edge
+devices with your data center, but this is a hard problem to solve, and you can
+save yourself a lot of time and effort by using Mycelial to move your data where
+it needs to go.
+
+Mycelial offers you an easy solution to your data movement needs.
+
+Checkout this [README](https://github.com/mycelial/mycelial) to learn more.
 
 If you'd like to chat about our libraries, we welcome you to join [our
 Discord](https://discord.gg/mycelial) or contact us on
