@@ -6,9 +6,9 @@ infrastructure for AI at the Edge.
 
 > What does this mean?
 
-Out of necessity, Edge Machine Learning (ML) moves computing away from the data
+Out of necessity, Edge AI moves computing away from the data
 center to the edges of the network where the data is generated. This means your
-resource-intensive ML applications, must be local applications, to function
+resource-intensive AI applications, must be local applications, to function
 properly.
 
 This raises an important question, which is:
