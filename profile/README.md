@@ -1,6 +1,4 @@
 # Hello 👋
-![An image of a mushroom and the mycelial logo](https://raw.githubusercontent.com/mycelial/.github/main/profile/mycelial-banner.jpg)
-
 We are [Mycelial Inc.](https://mycelial.com), and we offer modern data
 infrastructure for AI at the Edge.
 
