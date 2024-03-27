@@ -27,4 +27,4 @@ Checkout this [README](https://github.com/mycelial/mycelial) to learn more.
 
 If you'd like to chat about our libraries, we welcome you to join [our
 Discord](https://discord.gg/mycelial) or contact us on
-[twitter](https://twitter.com/@mycelial).
+[Twitter](https://twitter.com/@mycelial).
